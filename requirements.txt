@@ -1,0 +1,9 @@
+geocoder==1.17.5
+harparser==0.2
+mitmproxy==0.18.2
+netifaces==0.10.5
+pytz==2016.7
+requests==2.11.1
+selenium==3.0.1
+six==1.10.0
+wireless==0.3.2
